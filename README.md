@@ -16,6 +16,7 @@ from 2004 to 2022 using data from Eurostat.
 4. No API key required — data is fetched from the public Eurostat.
 
 ## Folder Structure
+```
 project/
 ├── project.ipynb          — main notebook
 ├── Data_pipeline.png           — data pipeline diagram
@@ -24,7 +25,7 @@ project/
 │   └── raw_waste_data.csv — raw data from Eurostat API
 └── exports/
 ├── clean_waste_data.csv       — cleaned dataset
-
+```
 ## Data Source
 Eurostat — Treatment of waste by waste category, hazardousness 
 and waste management operations (env_wastrt)
