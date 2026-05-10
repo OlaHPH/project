@@ -1,4 +1,4 @@
-# Waste Treatment Analysis in Europe (2004–2022)
+# Waste treatment analysis in Europe (2004–2022)
 
 ## Overview
 This project explores waste treatment operations across European countries 
@@ -15,7 +15,7 @@ from 2004 to 2022 using data from Eurostat.
 3. Run all cells in order from top to bottom.
 4. No API key required — data is fetched from the public Eurostat.
 
-## Folder Structure
+## Folder structure
 ```
 project/
 ├── project.ipynb          — main notebook
@@ -26,11 +26,10 @@ project/
 └── exports/
 ├── clean_waste_data.csv       — cleaned dataset
 ```
-## Data Source
-Eurostat — Treatment of waste by waste category, hazardousness 
-and waste management operations (env_wastrt)
+## Data source
+Eurostat — Treatment of waste by waste category, hazardousness and waste management operations (env_wastrt)
 URL: https://ec.europa.eu/eurostat/databrowser/product/page/env_wastrt
 
-## AI Use Statement
-Claude (Anthropic) was used to assist with concept explanation, debugging and alternative solution susgestion 
-Data is fetched from the Eurostat source. Solution is conducted based on my own understanding using course PythonForBusinessInt2026 material by Sippo Jussi via https://github.com/sippohippo/PythonForBusinessInt2026. 
+## AI use statement
+Claude (Anthropic) was used to assist with concept explanation, debugging and alternative solution susgestion.
+Solution is conducted based on my own understanding using course PythonForBusinessInt2026 material by Sippo Jussi via https://github.com/sippohippo/PythonForBusinessInt2026.
